@@ -1,6 +1,6 @@
 <h1 align="center">Hello iam Aparadox_</h1>
 <h3 align="center">creator of various minecraft servers</h3>
-(img align="right" alt="Coding" width="400" src="[https://giphy.com/clips/minecraft-mojang-sandbox-game-minecraft-live-crv9T8AjS94IOBjDqO](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/clips/minecraft-mojang-sandbox-game-minecraft-live-crv9T8AjS94IOBjDqO](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 - 🔭 currently working on a new server! ⇶ [nova-games.eu](nova-games.eu)
 
